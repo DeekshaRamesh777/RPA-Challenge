@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "RPA-6 and 7",
       "projectName": "RPA-6 and 7",
-      "projectPath": "C:\\Challenge RPA\\RPA-Challenge\\RPA-6 and 7\\.local",
+      "projectPath": "C:\\Users\\Admin\\Documents\\UiPath\\RPA-6 and 7\\.local",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Challenge RPA\\RPA-Challenge\\RPA-6 and 7\\.local"
+      "outputPath": "C:\\Users\\Admin\\Documents\\UiPath\\RPA-6 and 7\\.local"
     },
     "frameworks": {
       "net461": {

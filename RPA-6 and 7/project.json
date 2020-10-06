@@ -1,6 +1,6 @@
 {
   "name": "RPA-6 and 7",
-  "description": "RPA challenge of day 6 and 7\r\n",
+  "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.6]",
